@@ -8,4 +8,6 @@ but if you have and LDARC F411-B2 I bet this will work for you.
 Since I pulled this directly off the board, it is a .bin instead of a .hex. You will need to use the cube programmer to flash your board. I used 
 the following guide to dump the firmware; see the bottom section "Restoring Data" to flash onto your board.
 
+https://oscarliang.com/backup-fc-stm32cubeprogrammer/#Download
+
 Good luck!
